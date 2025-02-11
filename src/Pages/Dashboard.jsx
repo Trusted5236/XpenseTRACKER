@@ -2,11 +2,9 @@ import React from 'react'
 import { useContext } from 'react'
 import { contextData } from '../Components/Context'
 import { Box, Text, Flex, Spinner } from '@chakra-ui/react'
-import { SlPeople } from "react-icons/sl"
 import BoxCont from '../Components/BoxCont'
 import { BiMoneyWithdraw } from "react-icons/bi";
 import LineChart from '../Components/LineChart'
-import PieChart from '../Components/PieChart'
 import { IoTrendingUpOutline } from "react-icons/io5";
 import { IoTrendingDownOutline } from "react-icons/io5";
 import { MdTrendingFlat } from "react-icons/md";
