@@ -1,0 +1,1182 @@
+{
+    "business_name": "Sunny Side Cafe",
+    "year": 2024,
+    "daily_records": [
+      {
+        "date": "2024-01-01",
+        "revenue": 1944,
+        "expenses": 861,
+        "profit": 1083,
+        "customer_count": 124
+      },
+      {
+        "date": "2024-01-02",
+        "revenue": 1427,
+        "expenses": 889,
+        "profit": 538,
+        "customer_count": 89
+      },
+      {
+        "date": "2024-01-04",
+        "revenue": 1362,
+        "expenses": 804,
+        "profit": 558,
+        "customer_count": 130
+      },
+      {
+        "date": "2024-01-07",
+        "revenue": 1250,
+        "expenses": 1168,
+        "profit": 82,
+        "customer_count": 107
+      },
+      {
+        "date": "2024-01-08",
+        "revenue": 1820,
+        "expenses": 1069,
+        "profit": 751,
+        "customer_count": 126
+      },
+      {
+        "date": "2024-01-09",
+        "revenue": 1395,
+        "expenses": 1125,
+        "profit": 270,
+        "customer_count": 75
+      },
+      {
+        "date": "2024-01-10",
+        "revenue": 1695,
+        "expenses": 1091,
+        "profit": 604,
+        "customer_count": 86
+      },
+      {
+        "date": "2024-01-12",
+        "revenue": 1051,
+        "expenses": 971,
+        "profit": 80,
+        "customer_count": 89
+      },
+      {
+        "date": "2024-01-15",
+        "revenue": 1830,
+        "expenses": 742,
+        "profit": 1088,
+        "customer_count": 138
+      },
+      {
+        "date": "2024-01-16",
+        "revenue": 1524,
+        "expenses": 832,
+        "profit": 692,
+        "customer_count": 88
+      },
+      {
+        "date": "2024-01-19",
+        "revenue": 1144,
+        "expenses": 996,
+        "profit": 148,
+        "customer_count": 103
+      },
+      {
+        "date": "2024-01-20",
+        "revenue": 1226,
+        "expenses": 976,
+        "profit": 250,
+        "customer_count": 147
+      },
+      {
+        "date": "2024-01-22",
+        "revenue": 1759,
+        "expenses": 1046,
+        "profit": 713,
+        "customer_count": 137
+      },
+      {
+        "date": "2024-01-24",
+        "revenue": 1253,
+        "expenses": 1150,
+        "profit": 103,
+        "customer_count": 142
+      },
+      {
+        "date": "2024-01-26",
+        "revenue": 1817,
+        "expenses": 1064,
+        "profit": 753,
+        "customer_count": 117
+      },
+      {
+        "date": "2024-01-28",
+        "revenue": 1303,
+        "expenses": 767,
+        "profit": 536,
+        "customer_count": 97
+      },
+      {
+        "date": "2024-02-01",
+        "revenue": 1006,
+        "expenses": 857,
+        "profit": 149,
+        "customer_count": 94
+      },
+      {
+        "date": "2024-02-02",
+        "revenue": 1949,
+        "expenses": 798,
+        "profit": 1151,
+        "customer_count": 114
+      },
+      {
+        "date": "2024-02-05",
+        "revenue": 1225,
+        "expenses": 894,
+        "profit": 331,
+        "customer_count": 142
+      },
+      {
+        "date": "2024-02-08",
+        "revenue": 1948,
+        "expenses": 890,
+        "profit": 1058,
+        "customer_count": 100
+      },
+      {
+        "date": "2024-02-09",
+        "revenue": 1774,
+        "expenses": 749,
+        "profit": 1025,
+        "customer_count": 139
+      },
+      {
+        "date": "2024-02-11",
+        "revenue": 1389,
+        "expenses": 1092,
+        "profit": 297,
+        "customer_count": 149
+      },
+      {
+        "date": "2024-02-13",
+        "revenue": 1696,
+        "expenses": 814,
+        "profit": 882,
+        "customer_count": 118
+      },
+      {
+        "date": "2024-02-14",
+        "revenue": 1392,
+        "expenses": 912,
+        "profit": 480,
+        "customer_count": 93
+      },
+      {
+        "date": "2024-02-16",
+        "revenue": 1787,
+        "expenses": 1164,
+        "profit": 623,
+        "customer_count": 92
+      },
+      {
+        "date": "2024-02-17",
+        "revenue": 1411,
+        "expenses": 920,
+        "profit": 491,
+        "customer_count": 148
+      },
+      {
+        "date": "2024-02-19",
+        "revenue": 1978,
+        "expenses": 1091,
+        "profit": 887,
+        "customer_count": 148
+      },
+      {
+        "date": "2024-02-20",
+        "revenue": 1709,
+        "expenses": 1133,
+        "profit": 576,
+        "customer_count": 89
+      },
+      {
+        "date": "2024-02-21",
+        "revenue": 1719,
+        "expenses": 964,
+        "profit": 755,
+        "customer_count": 95
+      },
+      {
+        "date": "2024-02-23",
+        "revenue": 1843,
+        "expenses": 1054,
+        "profit": 789,
+        "customer_count": 111
+      },
+      {
+        "date": "2024-02-26",
+        "revenue": 1144,
+        "expenses": 1070,
+        "profit": 74,
+        "customer_count": 92
+      },
+      {
+        "date": "2024-03-01",
+        "revenue": 1171,
+        "expenses": 857,
+        "profit": 314,
+        "customer_count": 128
+      },
+      {
+        "date": "2024-03-02",
+        "revenue": 1914,
+        "expenses": 701,
+        "profit": 1213,
+        "customer_count": 106
+      },
+      {
+        "date": "2024-03-04",
+        "revenue": 1154,
+        "expenses": 885,
+        "profit": 269,
+        "customer_count": 111
+      },
+      {
+        "date": "2024-03-05",
+        "revenue": 1185,
+        "expenses": 833,
+        "profit": 352,
+        "customer_count": 134
+      },
+      {
+        "date": "2024-03-07",
+        "revenue": 1791,
+        "expenses": 824,
+        "profit": 967,
+        "customer_count": 137
+      },
+      {
+        "date": "2024-03-09",
+        "revenue": 1749,
+        "expenses": 847,
+        "profit": 902,
+        "customer_count": 86
+      },
+      {
+        "date": "2024-03-10",
+        "revenue": 1916,
+        "expenses": 911,
+        "profit": 1005,
+        "customer_count": 124
+      },
+      {
+        "date": "2024-03-11",
+        "revenue": 1010,
+        "expenses": 820,
+        "profit": 190,
+        "customer_count": 103
+      },
+      {
+        "date": "2024-03-12",
+        "revenue": 1521,
+        "expenses": 936,
+        "profit": 585,
+        "customer_count": 77
+      },
+      {
+        "date": "2024-03-15",
+        "revenue": 1871,
+        "expenses": 997,
+        "profit": 874,
+        "customer_count": 96
+      },
+      {
+        "date": "2024-03-17",
+        "revenue": 1649,
+        "expenses": 1179,
+        "profit": 470,
+        "customer_count": 76
+      },
+      {
+        "date": "2024-03-19",
+        "revenue": 1696,
+        "expenses": 952,
+        "profit": 744,
+        "customer_count": 78
+      },
+      {
+        "date": "2024-03-20",
+        "revenue": 1298,
+        "expenses": 794,
+        "profit": 504,
+        "customer_count": 137
+      },
+      {
+        "date": "2024-03-22",
+        "revenue": 1792,
+        "expenses": 917,
+        "profit": 875,
+        "customer_count": 98
+      },
+      {
+        "date": "2024-03-24",
+        "revenue": 1801,
+        "expenses": 978,
+        "profit": 823,
+        "customer_count": 116
+      },
+      {
+        "date": "2024-03-27",
+        "revenue": 1258,
+        "expenses": 1087,
+        "profit": 171,
+        "customer_count": 105
+      },
+      {
+        "date": "2024-04-01",
+        "revenue": 1565,
+        "expenses": 1120,
+        "profit": 445,
+        "customer_count": 92
+      },
+      {
+        "date": "2024-04-03",
+        "revenue": 1277,
+        "expenses": 1088,
+        "profit": 189,
+        "customer_count": 123
+      },
+      {
+        "date": "2024-04-06",
+        "revenue": 1831,
+        "expenses": 1153,
+        "profit": 678,
+        "customer_count": 145
+      },
+      {
+        "date": "2024-04-08",
+        "revenue": 1347,
+        "expenses": 763,
+        "profit": 584,
+        "customer_count": 78
+      },
+      {
+        "date": "2024-04-09",
+        "revenue": 1813,
+        "expenses": 932,
+        "profit": 881,
+        "customer_count": 146
+      },
+      {
+        "date": "2024-04-11",
+        "revenue": 1102,
+        "expenses": 728,
+        "profit": 374,
+        "customer_count": 92
+      },
+      {
+        "date": "2024-04-12",
+        "revenue": 1156,
+        "expenses": 862,
+        "profit": 294,
+        "customer_count": 127
+      },
+      {
+        "date": "2024-04-14",
+        "revenue": 1433,
+        "expenses": 770,
+        "profit": 663,
+        "customer_count": 85
+      },
+      {
+        "date": "2024-04-17",
+        "revenue": 1446,
+        "expenses": 1028,
+        "profit": 418,
+        "customer_count": 118
+      },
+      {
+        "date": "2024-04-20",
+        "revenue": 1277,
+        "expenses": 1165,
+        "profit": 112,
+        "customer_count": 84
+      },
+      {
+        "date": "2024-04-22",
+        "revenue": 1798,
+        "expenses": 1087,
+        "profit": 711,
+        "customer_count": 146
+      },
+      {
+        "date": "2024-04-23",
+        "revenue": 1221,
+        "expenses": 755,
+        "profit": 466,
+        "customer_count": 95
+      },
+      {
+        "date": "2024-04-25",
+        "revenue": 1940,
+        "expenses": 791,
+        "profit": 1149,
+        "customer_count": 100
+      },
+      {
+        "date": "2024-04-26",
+        "revenue": 1976,
+        "expenses": 857,
+        "profit": 1119,
+        "customer_count": 112
+      },
+      {
+        "date": "2024-04-27",
+        "revenue": 1925,
+        "expenses": 742,
+        "profit": 1183,
+        "customer_count": 78
+      },
+      {
+        "date": "2024-05-01",
+        "revenue": 1381,
+        "expenses": 1091,
+        "profit": 290,
+        "customer_count": 105
+      },
+      {
+        "date": "2024-05-04",
+        "revenue": 1862,
+        "expenses": 794,
+        "profit": 1068,
+        "customer_count": 88
+      },
+      {
+        "date": "2024-05-07",
+        "revenue": 1287,
+        "expenses": 994,
+        "profit": 293,
+        "customer_count": 101
+      },
+      {
+        "date": "2024-05-09",
+        "revenue": 1045,
+        "expenses": 750,
+        "profit": 295,
+        "customer_count": 105
+      },
+      {
+        "date": "2024-05-11",
+        "revenue": 1976,
+        "expenses": 1068,
+        "profit": 908,
+        "customer_count": 115
+      },
+      {
+        "date": "2024-05-13",
+        "revenue": 1338,
+        "expenses": 922,
+        "profit": 416,
+        "customer_count": 116
+      },
+      {
+        "date": "2024-05-15",
+        "revenue": 1541,
+        "expenses": 780,
+        "profit": 761,
+        "customer_count": 90
+      },
+      {
+        "date": "2024-05-16",
+        "revenue": 1289,
+        "expenses": 710,
+        "profit": 579,
+        "customer_count": 108
+      },
+      {
+        "date": "2024-05-17",
+        "revenue": 1980,
+        "expenses": 889,
+        "profit": 1091,
+        "customer_count": 113
+      },
+      {
+        "date": "2024-05-20",
+        "revenue": 1133,
+        "expenses": 857,
+        "profit": 276,
+        "customer_count": 144
+      },
+      {
+        "date": "2024-05-23",
+        "revenue": 1249,
+        "expenses": 701,
+        "profit": 548,
+        "customer_count": 138
+      },
+      {
+        "date": "2024-05-24",
+        "revenue": 1890,
+        "expenses": 1032,
+        "profit": 858,
+        "customer_count": 103
+      },
+      {
+        "date": "2024-05-27",
+        "revenue": 1876,
+        "expenses": 850,
+        "profit": 1026,
+        "customer_count": 128
+      },
+      {
+        "date": "2024-06-01",
+        "revenue": 1046,
+        "expenses": 915,
+        "profit": 131,
+        "customer_count": 115
+      },
+      {
+        "date": "2024-06-03",
+        "revenue": 1618,
+        "expenses": 757,
+        "profit": 861,
+        "customer_count": 141
+      },
+      {
+        "date": "2024-06-04",
+        "revenue": 1805,
+        "expenses": 1033,
+        "profit": 772,
+        "customer_count": 95
+      },
+      {
+        "date": "2024-06-07",
+        "revenue": 1111,
+        "expenses": 1070,
+        "profit": 41,
+        "customer_count": 102
+      },
+      {
+        "date": "2024-06-10",
+        "revenue": 1339,
+        "expenses": 1179,
+        "profit": 160,
+        "customer_count": 81
+      },
+      {
+        "date": "2024-06-11",
+        "revenue": 1422,
+        "expenses": 1080,
+        "profit": 342,
+        "customer_count": 108
+      },
+      {
+        "date": "2024-06-13",
+        "revenue": 1407,
+        "expenses": 788,
+        "profit": 619,
+        "customer_count": 137
+      },
+      {
+        "date": "2024-06-16",
+        "revenue": 1671,
+        "expenses": 775,
+        "profit": 896,
+        "customer_count": 124
+      },
+      {
+        "date": "2024-06-18",
+        "revenue": 1306,
+        "expenses": 778,
+        "profit": 528,
+        "customer_count": 140
+      },
+      {
+        "date": "2024-06-19",
+        "revenue": 1388,
+        "expenses": 1162,
+        "profit": 226,
+        "customer_count": 87
+      },
+      {
+        "date": "2024-06-22",
+        "revenue": 1656,
+        "expenses": 732,
+        "profit": 924,
+        "customer_count": 132
+      },
+      {
+        "date": "2024-06-24",
+        "revenue": 1182,
+        "expenses": 877,
+        "profit": 305,
+        "customer_count": 120
+      },
+      {
+        "date": "2024-06-26",
+        "revenue": 1897,
+        "expenses": 1149,
+        "profit": 748,
+        "customer_count": 138
+      },
+      {
+        "date": "2024-06-27",
+        "revenue": 1718,
+        "expenses": 864,
+        "profit": 854,
+        "customer_count": 116
+      },
+      {
+        "date": "2024-07-01",
+        "revenue": 1970,
+        "expenses": 719,
+        "profit": 1251,
+        "customer_count": 125
+      },
+      {
+        "date": "2024-07-02",
+        "revenue": 1924,
+        "expenses": 1189,
+        "profit": 735,
+        "customer_count": 130
+      },
+      {
+        "date": "2024-07-05",
+        "revenue": 1732,
+        "expenses": 831,
+        "profit": 901,
+        "customer_count": 124
+      },
+      {
+        "date": "2024-07-07",
+        "revenue": 1772,
+        "expenses": 1005,
+        "profit": 767,
+        "customer_count": 137
+      },
+      {
+        "date": "2024-07-09",
+        "revenue": 1026,
+        "expenses": 944,
+        "profit": 82,
+        "customer_count": 138
+      },
+      {
+        "date": "2024-07-11",
+        "revenue": 1204,
+        "expenses": 709,
+        "profit": 495,
+        "customer_count": 99
+      },
+      {
+        "date": "2024-07-13",
+        "revenue": 1604,
+        "expenses": 828,
+        "profit": 776,
+        "customer_count": 122
+      },
+      {
+        "date": "2024-07-14",
+        "revenue": 1579,
+        "expenses": 1057,
+        "profit": 522,
+        "customer_count": 106
+      },
+      {
+        "date": "2024-07-15",
+        "revenue": 1592,
+        "expenses": 825,
+        "profit": 767,
+        "customer_count": 149
+      },
+      {
+        "date": "2024-07-17",
+        "revenue": 1401,
+        "expenses": 1069,
+        "profit": 332,
+        "customer_count": 139
+      },
+      {
+        "date": "2024-07-19",
+        "revenue": 1301,
+        "expenses": 1180,
+        "profit": 121,
+        "customer_count": 139
+      },
+      {
+        "date": "2024-07-20",
+        "revenue": 1307,
+        "expenses": 765,
+        "profit": 542,
+        "customer_count": 145
+      },
+      {
+        "date": "2024-07-22",
+        "revenue": 1888,
+        "expenses": 812,
+        "profit": 1076,
+        "customer_count": 133
+      },
+      {
+        "date": "2024-07-25",
+        "revenue": 1860,
+        "expenses": 896,
+        "profit": 964,
+        "customer_count": 125
+      },
+      {
+        "date": "2024-07-27",
+        "revenue": 1187,
+        "expenses": 1058,
+        "profit": 129,
+        "customer_count": 107
+      },
+      {
+        "date": "2024-08-01",
+        "revenue": 1994,
+        "expenses": 735,
+        "profit": 1259,
+        "customer_count": 142
+      },
+      {
+        "date": "2024-08-04",
+        "revenue": 1396,
+        "expenses": 703,
+        "profit": 693,
+        "customer_count": 142
+      },
+      {
+        "date": "2024-08-07",
+        "revenue": 1789,
+        "expenses": 793,
+        "profit": 996,
+        "customer_count": 141
+      },
+      {
+        "date": "2024-08-10",
+        "revenue": 1965,
+        "expenses": 1123,
+        "profit": 842,
+        "customer_count": 144
+      },
+      {
+        "date": "2024-08-12",
+        "revenue": 1468,
+        "expenses": 1060,
+        "profit": 408,
+        "customer_count": 98
+      },
+      {
+        "date": "2024-08-13",
+        "revenue": 1592,
+        "expenses": 1156,
+        "profit": 436,
+        "customer_count": 98
+      },
+      {
+        "date": "2024-08-15",
+        "revenue": 1400,
+        "expenses": 1126,
+        "profit": 274,
+        "customer_count": 89
+      },
+      {
+        "date": "2024-08-18",
+        "revenue": 1498,
+        "expenses": 765,
+        "profit": 733,
+        "customer_count": 119
+      },
+      {
+        "date": "2024-08-21",
+        "revenue": 1017,
+        "expenses": 787,
+        "profit": 230,
+        "customer_count": 84
+      },
+      {
+        "date": "2024-08-22",
+        "revenue": 1285,
+        "expenses": 881,
+        "profit": 404,
+        "customer_count": 131
+      },
+      {
+        "date": "2024-08-23",
+        "revenue": 1790,
+        "expenses": 743,
+        "profit": 1047,
+        "customer_count": 106
+      },
+      {
+        "date": "2024-08-26",
+        "revenue": 1714,
+        "expenses": 1125,
+        "profit": 589,
+        "customer_count": 148
+      },
+      {
+        "date": "2024-08-28",
+        "revenue": 1513,
+        "expenses": 1125,
+        "profit": 388,
+        "customer_count": 75
+      },
+      {
+        "date": "2024-09-01",
+        "revenue": 1881,
+        "expenses": 956,
+        "profit": 925,
+        "customer_count": 129
+      },
+      {
+        "date": "2024-09-04",
+        "revenue": 1223,
+        "expenses": 1174,
+        "profit": 49,
+        "customer_count": 140
+      },
+      {
+        "date": "2024-09-05",
+        "revenue": 1293,
+        "expenses": 872,
+        "profit": 421,
+        "customer_count": 80
+      },
+      {
+        "date": "2024-09-07",
+        "revenue": 1145,
+        "expenses": 872,
+        "profit": 273,
+        "customer_count": 134
+      },
+      {
+        "date": "2024-09-08",
+        "revenue": 1698,
+        "expenses": 878,
+        "profit": 820,
+        "customer_count": 149
+      },
+      {
+        "date": "2024-09-09",
+        "revenue": 1819,
+        "expenses": 765,
+        "profit": 1054,
+        "customer_count": 117
+      },
+      {
+        "date": "2024-09-11",
+        "revenue": 1479,
+        "expenses": 1094,
+        "profit": 385,
+        "customer_count": 89
+      },
+      {
+        "date": "2024-09-13",
+        "revenue": 1821,
+        "expenses": 853,
+        "profit": 968,
+        "customer_count": 144
+      },
+      {
+        "date": "2024-09-16",
+        "revenue": 1646,
+        "expenses": 855,
+        "profit": 791,
+        "customer_count": 98
+      },
+      {
+        "date": "2024-09-17",
+        "revenue": 1804,
+        "expenses": 974,
+        "profit": 830,
+        "customer_count": 132
+      },
+      {
+        "date": "2024-09-20",
+        "revenue": 1286,
+        "expenses": 1099,
+        "profit": 187,
+        "customer_count": 116
+      },
+      {
+        "date": "2024-09-23",
+        "revenue": 1768,
+        "expenses": 1026,
+        "profit": 742,
+        "customer_count": 98
+      },
+      {
+        "date": "2024-09-24",
+        "revenue": 1561,
+        "expenses": 923,
+        "profit": 638,
+        "customer_count": 113
+      },
+      {
+        "date": "2024-09-27",
+        "revenue": 1418,
+        "expenses": 975,
+        "profit": 443,
+        "customer_count": 111
+      },
+      {
+        "date": "2024-09-28",
+        "revenue": 1113,
+        "expenses": 1026,
+        "profit": 87,
+        "customer_count": 82
+      },
+      {
+        "date": "2024-10-01",
+        "revenue": 1350,
+        "expenses": 879,
+        "profit": 471,
+        "customer_count": 81
+      },
+      {
+        "date": "2024-10-02",
+        "revenue": 1243,
+        "expenses": 739,
+        "profit": 504,
+        "customer_count": 132
+      },
+      {
+        "date": "2024-10-05",
+        "revenue": 1065,
+        "expenses": 889,
+        "profit": 176,
+        "customer_count": 130
+      },
+      {
+        "date": "2024-10-07",
+        "revenue": 1453,
+        "expenses": 1019,
+        "profit": 434,
+        "customer_count": 93
+      },
+      {
+        "date": "2024-10-08",
+        "revenue": 1447,
+        "expenses": 1186,
+        "profit": 261,
+        "customer_count": 91
+      },
+      {
+        "date": "2024-10-11",
+        "revenue": 1107,
+        "expenses": 772,
+        "profit": 335,
+        "customer_count": 136
+      },
+      {
+        "date": "2024-10-14",
+        "revenue": 1530,
+        "expenses": 1076,
+        "profit": 454,
+        "customer_count": 118
+      },
+      {
+        "date": "2024-10-17",
+        "revenue": 1117,
+        "expenses": 806,
+        "profit": 311,
+        "customer_count": 118
+      },
+      {
+        "date": "2024-10-18",
+        "revenue": 1918,
+        "expenses": 859,
+        "profit": 1059,
+        "customer_count": 133
+      },
+      {
+        "date": "2024-10-20",
+        "revenue": 1540,
+        "expenses": 724,
+        "profit": 816,
+        "customer_count": 92
+      },
+      {
+        "date": "2024-10-22",
+        "revenue": 1777,
+        "expenses": 949,
+        "profit": 828,
+        "customer_count": 85
+      },
+      {
+        "date": "2024-10-25",
+        "revenue": 1354,
+        "expenses": 841,
+        "profit": 513,
+        "customer_count": 145
+      },
+      {
+        "date": "2024-10-28",
+        "revenue": 1620,
+        "expenses": 738,
+        "profit": 882,
+        "customer_count": 100
+      },
+      {
+        "date": "2024-11-01",
+        "revenue": 1037,
+        "expenses": 848,
+        "profit": 189,
+        "customer_count": 84
+      },
+      {
+        "date": "2024-11-04",
+        "revenue": 1315,
+        "expenses": 918,
+        "profit": 397,
+        "customer_count": 84
+      },
+      {
+        "date": "2024-11-06",
+        "revenue": 1088,
+        "expenses": 998,
+        "profit": 90,
+        "customer_count": 87
+      },
+      {
+        "date": "2024-11-09",
+        "revenue": 1882,
+        "expenses": 948,
+        "profit": 934,
+        "customer_count": 112
+      },
+      {
+        "date": "2024-11-12",
+        "revenue": 1658,
+        "expenses": 1100,
+        "profit": 558,
+        "customer_count": 139
+      },
+      {
+        "date": "2024-11-14",
+        "revenue": 1058,
+        "expenses": 911,
+        "profit": 147,
+        "customer_count": 97
+      },
+      {
+        "date": "2024-11-15",
+        "revenue": 1859,
+        "expenses": 801,
+        "profit": 1058,
+        "customer_count": 107
+      },
+      {
+        "date": "2024-11-17",
+        "revenue": 1858,
+        "expenses": 855,
+        "profit": 1003,
+        "customer_count": 123
+      },
+      {
+        "date": "2024-11-19",
+        "revenue": 1842,
+        "expenses": 784,
+        "profit": 1058,
+        "customer_count": 80
+      },
+      {
+        "date": "2024-11-22",
+        "revenue": 1207,
+        "expenses": 846,
+        "profit": 361,
+        "customer_count": 88
+      },
+      {
+        "date": "2024-11-25",
+        "revenue": 1425,
+        "expenses": 755,
+        "profit": 670,
+        "customer_count": 107
+      },
+      {
+        "date": "2024-11-28",
+        "revenue": 1739,
+        "expenses": 736,
+        "profit": 1003,
+        "customer_count": 132
+      },
+      {
+        "date": "2024-12-01",
+        "revenue": 1502,
+        "expenses": 1017,
+        "profit": 485,
+        "customer_count": 135
+      },
+      {
+        "date": "2024-12-04",
+        "revenue": 1315,
+        "expenses": 1023,
+        "profit": 292,
+        "customer_count": 112
+      },
+      {
+        "date": "2024-12-06",
+        "revenue": 1707,
+        "expenses": 914,
+        "profit": 793,
+        "customer_count": 148
+      },
+      {
+        "date": "2024-12-09",
+        "revenue": 1487,
+        "expenses": 860,
+        "profit": 627,
+        "customer_count": 135
+      },
+      {
+        "date": "2024-12-12",
+        "revenue": 1275,
+        "expenses": 737,
+        "profit": 538,
+        "customer_count": 102
+      },
+      {
+        "date": "2024-12-15",
+        "revenue": 1803,
+        "expenses": 878,
+        "profit": 925,
+        "customer_count": 98
+      },
+      {
+        "date": "2024-12-18",
+        "revenue": 1661,
+        "expenses": 984,
+        "profit": 677,
+        "customer_count": 98
+      },
+      {
+        "date": "2024-12-19",
+        "revenue": 1231,
+        "expenses": 768,
+        "profit": 463,
+        "customer_count": 79
+      },
+      {
+        "date": "2024-12-22",
+        "revenue": 1777,
+        "expenses": 805,
+        "profit": 972,
+        "customer_count": 150
+      },
+      {
+        "date": "2024-12-25",
+        "revenue": 1605,
+        "expenses": 938,
+        "profit": 667,
+        "customer_count": 145
+      },
+      {
+        "date": "2024-12-27",
+        "revenue": 1764,
+        "expenses": 835,
+        "profit": 929,
+        "customer_count": 129
+      }
+    ]}
+       
